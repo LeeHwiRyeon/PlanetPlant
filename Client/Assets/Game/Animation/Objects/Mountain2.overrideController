@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Mountain2
+  m_Controller: {fileID: 9100000, guid: 9a6c3ccd18e7b6047ba730b687e118cd, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: cea7562f80bcb614a86785b1ec7a59af, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2bd3056d20a06844cb9c65cd333af816, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7efd10f85608bd9478c1cebe02fb53fd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 04d4cbee0e44f664faae1649908959ef, type: 2}

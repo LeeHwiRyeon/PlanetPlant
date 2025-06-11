@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Plant_NormalTree1
+  m_Controller: {fileID: 9100000, guid: 03fd03c33d97dc449a95309b23ad4690, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4c79738aa5dc0ef4ca61120e1dcf9aef, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4c79738aa5dc0ef4ca61120e1dcf9aef, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 053e33225b9f5a747b7bd42256c9055d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 053e33225b9f5a747b7bd42256c9055d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 42ea544ec4a66c1439a312ef8ae88946, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 42ea544ec4a66c1439a312ef8ae88946, type: 2}
