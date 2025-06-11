@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">439076664370</string>
+  <string name="google_storage_bucket" translatable="false">planetplant-prod.appspot.com</string>
+  <string name="project_id" translatable="false">planetplant-prod</string>
+  <string name="google_api_key" translatable="false">AIzaSyB5LiC_SZON5vFwrW9kBn2M-eilGI7vX7c</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB5LiC_SZON5vFwrW9kBn2M-eilGI7vX7c</string>
+  <string name="google_app_id" translatable="false">1:439076664370:android:3ffd4e043d2ecbc9e3782b</string>
+  <string name="default_web_client_id" translatable="false">439076664370-n04i5j8648rijsj0fejf8qca2kem9koq.apps.googleusercontent.com</string>
+</resources>

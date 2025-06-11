@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Effects
+  m_EditorClassIdentifier: 
+  m_GroupName: Effects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9a21e9221097db04f9bdc6e3804c9e76
+  m_SerializeEntries:
+  - m_GUID: 123a6246e8a2dee43a524537e60fb9c1
+    m_Address: Attack_Cannon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5cb8562aa626544194b4ad43ce8c780
+    m_Address: Hit_Explosion
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a46124540e5e15b408e96a96fcddee7e
+    m_Address: Hit_Ground
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b051c7d470d657747b738e7bb4ee3032
+    m_Address: Hit_Water
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 497cfccd6830478498f984c943abdfba
+    m_Address: Hit_Lava
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98b97837e0df9214e9922ba234f57635
+    m_Address: Hit_Meteor
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35bf63a79bfb658458efd2a719c1fdd9
+    m_Address: Hit_Asteroid
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5482cb792298b9e4298ba932452f9ffd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6fd9c377cdaa3344daeff0eec7474b62, type: 2}
+    - {fileID: 11400000, guid: ae57145a9ccac264e9af7be2783a5929, type: 2}

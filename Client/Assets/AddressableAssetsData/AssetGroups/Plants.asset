@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Plants
+  m_EditorClassIdentifier: 
+  m_GroupName: Plants
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c5d5e83ab4fef8e40aa252fb86f9be0b
+  m_SerializeEntries:
+  - m_GUID: 3259aebcf97361c43a3b8ef0f74730fd
+    m_Address: Plant_BurnTree1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 830efaee0dae3c44bb8fe675f72a1a87
+    m_Address: Plant_BurnTree2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 083ad97c0d52f3148949c1b2f662769d
+    m_Address: Plant_DeadTree1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04fa8ac7be7a29846a224ad12a4c158e
+    m_Address: Plant_DeadTree2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9528276a79c05d440a72d97f921d7076
+    m_Address: Plant_NormalTree1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a0918d1d471a82946a664025527fe2d3
+    m_Address: Plant_RockTree
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 923611d12d7f7b447ac7b4a7efbd1204
+    m_Address: Plant_SandTree
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d34a2206fb84014d9cfffa23796af66
+    m_Address: Plant_SnowTree
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bedba4921df9e10468d51e66f0b75b38
+    m_Address: Plant_WaterTree
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5482cb792298b9e4298ba932452f9ffd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e8ec406c4913ed745afc9245621a22b3, type: 2}
+    - {fileID: 11400000, guid: dbf94d8ae4506b54096afe6e42e85431, type: 2}

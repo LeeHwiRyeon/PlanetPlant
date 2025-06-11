@@ -1,0 +1,1277 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 040591df3dbf2784db16a7ef0889a467
+  m_SerializeEntries:
+  - m_GUID: 732b44d2a0cf9254a87ceb36b9133a56
+    m_Address: star1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23c15c1f019661c459c4d77317d07624
+    m_Address: star2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 236587ec711348a4792e0060efb1bf73
+    m_Address: buttons
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a11ea103d81f8dd4b896a5dcd08d3fcc
+    m_Address: buttons
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c550a7470c10f9245aa1a8f7ad32e7d2
+    m_Address: rock
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6d49aa40c7b327641898294b160dfc72
+    m_Address: Plant_DeadTree1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 40dfdfd8a0a1b65479cee4bdd0630fdf
+    m_Address: Plant_DeadTree2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14587550a3721af46b74b3d186a8e828
+    m_Address: PPIcon
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a11fef0a1c4fb64c9487142e28b09ed
+    m_Address: LavaPlanet1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e271d5e7f7102d4b9861db5b139b415
+    m_Address: LavaPlanet4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b3a8bab694c8fa4aad68f8d85a9f93d
+    m_Address: LavaPlanet2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 906566c7cd00f9f42ada0f22194081cc
+    m_Address: LavaPlanet3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b29ad144d25f11940943396590f347de
+    m_Address: PlanetStageScrollItem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 866c996521791744c8c3553e922b0386
+    m_Address: ClearTwoStars6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a49719723ef8af344be67290d6b9a936
+    m_Address: ClearTwoStars111
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cca27fea74a3c7e41a1e777e3dc781c6
+    m_Address: ClearTwoStars57
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 803ad5f8977a69d4ca53f8cc8a62e176
+    m_Address: ClearTwoStars76
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 342aca1ad14f64b4f9e2940fb77214a4
+    m_Address: ClearTwoStars82
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00432c34f72240a43b8d7053f2d92a27
+    m_Address: ClearTwoStars53
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 48506731a29862d4ebd8a39ce03b1c4f
+    m_Address: ClearTwoStars8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cceb24cc0132eea4ba1c76756ab73d20
+    m_Address: ClearTwoStars118
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a083830c50209d4499f59702cebd6782
+    m_Address: ClearTwoStars58
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e785d2547841974d9230c58a447b190
+    m_Address: ClearTwoStars35
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 557ac7d315a4ecf438013dc1d01de6e8
+    m_Address: ClearTwoStars108
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7df8eb3a2d949374896f121dfa32a1de
+    m_Address: ClearTwoStars92
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13485f717c6199f489529ecdd5450755
+    m_Address: ClearTwoStars105
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90a7f31fd1a7be44ea58bd673f62aeed
+    m_Address: ClearTwoStars119
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9acf9c88eda66f4ea2c44d254a5c648
+    m_Address: ClearTwoStars55
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d52aa0451481b2f4782ea53280a8033a
+    m_Address: ClearTwoStars75
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56601d56fd8d0254fae2395b7a8eb95c
+    m_Address: ClearTwoStars10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc61ab2a4dae6004a8ca50e6813bdeee
+    m_Address: ClearTwoStars69
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 477920d2fed16c1449b15f7235875db1
+    m_Address: ClearTwoStars41
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a08ae7e204f49844afbb0fca6b31409
+    m_Address: ClearTwoStars39
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3d351aa526dfb74c81fda21c03da1d1
+    m_Address: ClearTwoStars44
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 02f63e14a303bff449862a347b693db0
+    m_Address: ClearTwoStars86
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2fdf09fe486646f4e81a83a9e5592b0c
+    m_Address: ClearTwoStars49
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ea064fe9f6273c4eb74be074a962a52
+    m_Address: ClearTwoStars26
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52b69fb598497314e81693d94227898f
+    m_Address: ClearTwoStars7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 61a2bdec6b5523b48b7a9cad76f0adf1
+    m_Address: ClearTwoStars113
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5271efd5c3485d34285ac1fa0ccc6c65
+    m_Address: ClearTwoStars29
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e7e4fc7ad1e8cc47a01935946a7f1f6
+    m_Address: ClearTwoStars13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99621f326b6280e41931be5a7626acfc
+    m_Address: ClearTwoStars24
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ce7ae44522a73247956554da2ed7e9c
+    m_Address: ClearTwoStars68
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68194143b5a38d342b63587c2cce4b42
+    m_Address: ClearTwoStars33
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0b4884b0b9946b46b1cbb7534c27dfd
+    m_Address: ClearTwoStars16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a6d743cecad0df4281ae6a0c02f16f1
+    m_Address: ClearTwoStars40
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8785765b78e0e8941bc1286176315455
+    m_Address: ClearTwoStars32
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13c625873b7e1b147afd18438c5fd1ff
+    m_Address: ClearTwoStars83
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 41ea82b51c93ee543a5663bd88860d02
+    m_Address: ClearTwoStars89
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f43da56d3d7beac4ab5f6013bea763d8
+    m_Address: ClearTwoStars34
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d41c5132e21158b42ba3f2b158b74cf9
+    m_Address: ClearTwoStars100
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed6cdd8ea9b16d742a50b777c1a0b53d
+    m_Address: ClearTwoStars64
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ceb997a94aa9aff42a91a12e6790deb2
+    m_Address: ClearTwoStars84
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e9647e58ff6b76b49b4f5339a7757253
+    m_Address: ClearTwoStars95
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a18034204cc15a248ac5e2d25ef0c6be
+    m_Address: ClearTwoStars28
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50a525cb7b118a54cb64b46db8972fe3
+    m_Address: ClearTwoStars112
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a084d0a9de88e4843a872097e162c7c9
+    m_Address: ClearTwoStars106
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c34e2cf9a787fb4da78e82d3e0a2d75
+    m_Address: ClearTwoStars2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5271c5e08974be6419b349499ce55a96
+    m_Address: ClearTwoStars102
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 711b57c2a51c4e84e88a82273e5673f3
+    m_Address: ClearTwoStars93
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2df1905a70964374fa13a65d5320fe83
+    m_Address: ClearTwoStars79
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e326a2c83b3205e4aa97aa0c9a6d0b49
+    m_Address: ClearTwoStars90
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a61d89a89265bb1408df20a0ec2d4a85
+    m_Address: ClearTwoStars1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d6f1e6ab4489224f9c20b19e5500511
+    m_Address: ClearTwoStars117
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04dddb64ef6020743a4386256c085d85
+    m_Address: ClearTwoStars23
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9cd3dc88759db74e82d70b0ae0e852d
+    m_Address: ClearTwoStars18
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64f48464c20952b4f8fa28041f521f1f
+    m_Address: ClearTwoStars98
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20308acae3fa4684eb57719a41b021f7
+    m_Address: ClearTwoStars12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f09d587b6e9c2b44384a6114d2050452
+    m_Address: ClearTwoStars31
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ee41e80ed5431a489d988234f4f66df
+    m_Address: ClearTwoStars70
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06e2f5a9d1414f249876cbe9f496642a
+    m_Address: ClearTwoStars60
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b7db35aa89f6a2143974a512722bfa9f
+    m_Address: ClearTwoStars14
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc01903489c314d45b1d6e66926a1e56
+    m_Address: ClearTwoStars78
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b279d8aaeee6a524084ce749a3763e2f
+    m_Address: ClearTwoStars63
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d5ff2f39723ccf04ab369a72dc728980
+    m_Address: ClearTwoStars36
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be2fd5b09eb53584f9e1b90ae9142546
+    m_Address: ClearTwoStars99
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 12c827421f71d784a9a5270ea7c2fd3d
+    m_Address: ClearTwoStars80
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99e27533be6d4804089acb3f1b20b961
+    m_Address: ClearTwoStars116
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f49086f0df21a354586bbb4803b503eb
+    m_Address: ClearTwoStars21
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7e13fece3de178d41ab19d7c8480b4ae
+    m_Address: ClearTwoStars101
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de6d410bf8c8ef745a86984a55983d2a
+    m_Address: ClearTwoStars72
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43096906b2d8fc546b4a7e2146884ff3
+    m_Address: ClearTwoStars50
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abfe98a8770ecaa4e8c3c65e9508fa06
+    m_Address: ClearTwoStars17
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64ac9f00614389747887c47a5643ae24
+    m_Address: ClearTwoStars67
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8acae04a84c75b24d8c56b40f346b5ba
+    m_Address: ClearTwoStars59
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e806ca067691644fb2fa52745f4d61c
+    m_Address: ClearTwoStars87
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb488aa5f5f54da4faeb4f3d023ace1f
+    m_Address: ClearTwoStars46
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8025e5408fec3fe4e8dfcc5fd613d95a
+    m_Address: ClearTwoStars85
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbabd4a5ac981ae4f8590c38c70efd28
+    m_Address: ClearTwoStars110
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36054704f94db884abff034f78373cbe
+    m_Address: ClearTwoStars20
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e9dcb7fcb46e21d418a9c0ceb1b534bc
+    m_Address: ClearTwoStars52
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbba1550fe5db83439db6462358682c5
+    m_Address: ClearTwoStars74
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10f23a8cb2eafca4a8e59f0a0f62db2d
+    m_Address: ClearTwoStars3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 324fd8ea65b064a4f817818f0226afaf
+    m_Address: ClearTwoStars38
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 570573294f44fb444b40e350926ac4de
+    m_Address: ClearTwoStars11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: beae243fd09c4ec4a8285ffe1fa6873e
+    m_Address: ClearTwoStars77
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4af13f4095f5b154695ccb5644d4f469
+    m_Address: ClearTwoStars66
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a48d1b3c84888ba4cb39fe3a48572c1c
+    m_Address: ClearTwoStars61
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 846e104533c71b645b7c9f075fc595fe
+    m_Address: ClearTwoStars48
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c15c67c19dd1a540bb51d494732c6a7
+    m_Address: ClearTwoStars37
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6883a7cb1f0afbf4a97daaae055e0085
+    m_Address: ClearTwoStars104
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 62dd808dc1d6bc049b2f73efc5cb99dd
+    m_Address: ClearTwoStars30
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 622a232f4f96c7f4881630475a7a167f
+    m_Address: ClearTwoStars19
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8eaa2f0c86f3914495c3a5260a24b00
+    m_Address: ClearTwoStars45
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af242a30398bb62409548a246e054209
+    m_Address: ClearTwoStars47
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c6388a098cbba140838b721405e45c4
+    m_Address: ClearTwoStars62
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef0910bcd23a91e47babe313ff0cfdf5
+    m_Address: ClearTwoStars27
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71359675895e12b45b522c9cb9af4a30
+    m_Address: ClearTwoStars103
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a08269d1f225b3a4b82c9d686a3af5c0
+    m_Address: ClearTwoStars42
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d03c0ed8ae8bf424cb2f35bb17103842
+    m_Address: ClearTwoStars54
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e02d3d1f6e2464243a4d2361d4590777
+    m_Address: ClearTwoStars4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e39bce575e5888443b9076f89e681a60
+    m_Address: ClearTwoStars65
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95199c654be2f9f4887175f7362580db
+    m_Address: ClearTwoStars81
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 907f3e9f4e2727c448f6a26ca540ea0b
+    m_Address: ClearTwoStars9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 94747601e8d81be4b9d787690aca1a60
+    m_Address: ClearTwoStars15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2dc83055d2e63c40afcdd1794ce47f1
+    m_Address: ClearTwoStars107
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1b8a49b8257c53449e56a3cf33491c6
+    m_Address: ClearTwoStars73
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7616453cedffcaa4f8d1d646a16ac445
+    m_Address: ClearTwoStars43
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56b43b8ba8d3fa04d9062252fed9873e
+    m_Address: ClearTwoStars94
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82a91da8ceb42cd468a36279385540c5
+    m_Address: ClearTwoStars120
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5fe308ebf10f57b48a7a5a2508013b26
+    m_Address: ClearTwoStars91
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc92663bc25691746862140a05c84ded
+    m_Address: ClearTwoStars88
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a16b4131893c8147b6597d67d96870a
+    m_Address: ClearTwoStars25
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb90fc5b503ec1b40ae3ea25ee830b9c
+    m_Address: ClearTwoStars71
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37599f7e2258f2c4687f189967ae0056
+    m_Address: ClearTwoStars109
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf44b6bf6f8438849b2207bf48732798
+    m_Address: ClearTwoStars115
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ddf99f8304e36284887e5bb2748bea65
+    m_Address: ClearTwoStars51
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 27eb2662aa24cca4ba1bf58bc779e64c
+    m_Address: ClearTwoStars22
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 163a410dda4475f469ac18a32b3e02b4
+    m_Address: ClearTwoStars114
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a30b5a24523b83c4989c32aa251b3875
+    m_Address: ClearTwoStars96
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a1472f4e58f90a5419b2945fe7a3d509
+    m_Address: ClearTwoStars97
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e37b282c1fd486c48b5e7b002619c5bc
+    m_Address: ClearTwoStars5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c360e849ff3af0478289aa23c078585
+    m_Address: ClearTwoStars56
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00e278427b98d6f42a8764583ea40041
+    m_Address: ClearThreeStar1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbb4bd3942f26c842acadbce9e8bf3b3
+    m_Address: ClearThreeStar97
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da42dbc3ebf6a514aa1ff40ff01d5851
+    m_Address: ClearThreeStar58
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8c0b081d25b648f4281593d548d95e6a
+    m_Address: ClearThreeStar92
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc6ada5653fff7b4681167a6caf0e7be
+    m_Address: ClearThreeStar60
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24fe2f5cd4fc9db4eb0f9377794a7eb7
+    m_Address: ClearThreeStar95
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3af067824dba43a43bc66b3f0ea80b34
+    m_Address: ClearThreeStar8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef17ffe337e826a48bc65b9b9db59243
+    m_Address: ClearThreeStar10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 596da549043ec4b4a9f70c6f8e2577a6
+    m_Address: ClearThreeStar67
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03ca04fd45da0974bba9a17977c829cd
+    m_Address: ClearThreeStar115
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c90a02081dd89cd43a2ceec2133d4fda
+    m_Address: ClearThreeStar56
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f114c4b3e17c53c4b951195e0c771608
+    m_Address: ClearThreeStar18
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 691161202fc9ac8458f2f643a0b328d9
+    m_Address: ClearThreeStar96
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a1ef883cb1162344a14ffc894cc0586
+    m_Address: ClearThreeStar109
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4b1cd048fe1e974eb376fcf94fc51e9
+    m_Address: ClearThreeStar78
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c49a34019b94954f9ad1202c45bb6e4
+    m_Address: ClearThreeStar13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 001ba53063679084abe44e6e04ec83fb
+    m_Address: ClearThreeStar71
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc8873a31cb3e0748bbfdf76a4c6f51b
+    m_Address: ClearThreeStar50
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 648dc7f4711617047a63894bb1fcf3df
+    m_Address: ClearThreeStar113
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e8dada4a54d1f5841b736f3c7f014f44
+    m_Address: ClearThreeStar87
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64d9339e62143ac4e851aa648cebeb79
+    m_Address: ClearThreeStar14
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 91ec358f19d33dc498e0a9526035311f
+    m_Address: ClearThreeStar41
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 467aefd244f77154a8e6a83e121156ff
+    m_Address: ClearThreeStar34
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77fe6d5d0dfb11f44869b39f9e29969a
+    m_Address: ClearThreeStar70
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 486594516ba9de347869b2acb0bd07f0
+    m_Address: ClearThreeStar3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: db2bea83aa264ea41bf48efa0676079f
+    m_Address: ClearThreeStar105
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f85806cab11fa34bb4ea3daabaa8681
+    m_Address: ClearThreeStar6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8f531ce1a9a591f4fa30d8115fb8be47
+    m_Address: ClearThreeStar40
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6878a87e985f70a45a9811549e154843
+    m_Address: ClearThreeStar80
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20f323aa08a898a438c98d98785dad6d
+    m_Address: ClearThreeStar44
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24066f80ebe5a9242bbe2ad13f86cf66
+    m_Address: ClearThreeStar103
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70396d344092b5649b17dda820c8c7d6
+    m_Address: ClearThreeStar24
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51a4fb5df3e6dd14ca941c435fc0488a
+    m_Address: ClearThreeStar42
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 958946b2884758e4a80f5428caa3ad4b
+    m_Address: ClearThreeStar53
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 010e79cf80c9c4845a146abf117f9b26
+    m_Address: ClearThreeStar101
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4cc561802f02501479913c72b1c47043
+    m_Address: ClearThreeStar7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9c503cf9e6e1ad48b2f68c03612472a
+    m_Address: ClearThreeStar88
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef7e9e2c89c92fe4f9c3a1fa2fb3ba08
+    m_Address: ClearThreeStar12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c729c2494e3b00849a2f2b01436e1f17
+    m_Address: ClearThreeStar52
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d1779270fd73d84cab46789a07f09fd
+    m_Address: ClearThreeStar30
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 33b04ed92cebd674e9eb25dfe6b8540d
+    m_Address: ClearThreeStar64
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1528f5081dab1f64a9601b5b178c0595
+    m_Address: ClearThreeStar104
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 352c2f93630abc042b89994adfa65189
+    m_Address: ClearThreeStar110
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d3a6198b8f73854a8fac4e5550c1071
+    m_Address: ClearThreeStar84
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80eb2aa15aaba8d49824818b25387104
+    m_Address: ClearThreeStar25
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83c65913023e2a144a18fdecc81a7489
+    m_Address: ClearThreeStar28
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6a5568a28358ee4cbd0482cf700b799
+    m_Address: ClearThreeStar82
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd7ab90501ed33143a12789e3052e461
+    m_Address: ClearThreeStar77
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 80ce9fe6ea363684481460e7eaa6b9b4
+    m_Address: ClearThreeStar51
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 571e10692ce7c5f4c98381dde0faca4c
+    m_Address: ClearThreeStar62
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb90adf307870914a99e83ed8962f7a5
+    m_Address: ClearThreeStar66
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2c4f196587c49b438cd0a1050999add
+    m_Address: ClearThreeStar36
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f2852e88c5613a4880338a62b595e3f
+    m_Address: ClearThreeStar83
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30c50bba7bacdfd4992b32822a63dcf4
+    m_Address: ClearThreeStar65
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3fbe8fbb14e5814a8eaede4737215a4
+    m_Address: ClearThreeStar86
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4d604a8431d2fb4e850fa29a97762fc
+    m_Address: ClearThreeStar37
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 972a981c461b6254d9b590deb2d40c52
+    m_Address: ClearThreeStar112
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bdfcaf51482ecb24092fca76435307ac
+    m_Address: ClearThreeStar108
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 873057862ae69ea42ade1a7ec61f1773
+    m_Address: ClearThreeStar35
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 84897e26abdc9e346bb25789e5c8f289
+    m_Address: ClearThreeStar55
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b22daf8dcbacb3649a3ef030ffbca264
+    m_Address: ClearThreeStar99
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f808cad4081c0f14d92f65598ac8ac31
+    m_Address: ClearThreeStar72
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 98e3a0f38ca8d4247a1d101e73df3cb2
+    m_Address: ClearThreeStar63
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c743abb287aa7144b86f492a80d5d631
+    m_Address: ClearThreeStar15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 07f1a0536e0b6044780da4b24616ef30
+    m_Address: ClearThreeStar81
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42f967e7e484f0e4d80c77f5908e0d59
+    m_Address: ClearThreeStar39
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 651e8d3307afaac439dfc017b3e3f3e4
+    m_Address: ClearThreeStar26
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f182deb89b37ce5459456ab1ebac1af8
+    m_Address: ClearThreeStar32
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f665830951b224d4f8fa6693bf1247ab
+    m_Address: ClearThreeStar119
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 161b739dcfe8bc8418e97df960df7964
+    m_Address: ClearThreeStar89
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 830d1879297adf648a892bdb620e6d25
+    m_Address: ClearThreeStar107
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c51fc74a38ce16a4f8b84ccf4593c091
+    m_Address: ClearThreeStar4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82a7b086d87e72145bf0c823a01193de
+    m_Address: ClearThreeStar49
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13043dac8b0ea614c8a609410b2414d7
+    m_Address: ClearThreeStar75
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f1a507ad0c31ab4b87f9aa64b3590d2
+    m_Address: ClearThreeStar29
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a861995dea08f8469afb5285a6e6d95
+    m_Address: ClearThreeStar46
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bec800e2bc787ad4c81d15a58c419313
+    m_Address: ClearThreeStar19
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b1dd655e3149f7f4ebc5ddfe194005cf
+    m_Address: ClearThreeStar76
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50c258096fda8794f924a266c59395f8
+    m_Address: ClearThreeStar47
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da6af0134ae915d44982952c59225f39
+    m_Address: ClearThreeStar48
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe6d887e03bbb3e48a619d114bd2f2b5
+    m_Address: ClearThreeStar91
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a4501a1d9d4cf8b4b86f4b285ce85d44
+    m_Address: ClearThreeStar16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83150e704f7c9174da429dc35409d5bc
+    m_Address: ClearThreeStar5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5682c276199e33f41b5e8c0ab81cd326
+    m_Address: ClearThreeStar27
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70eb07b8104b91a469332164bf7968cf
+    m_Address: ClearThreeStar116
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc5ea7dd0d7198544bd09fbc33cb079e
+    m_Address: ClearThreeStar111
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e990fbb42e3108b44a81bde20978ec40
+    m_Address: ClearThreeStar118
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 204c889b0c0e7d84189d3f1978d3d894
+    m_Address: ClearThreeStar22
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1249e42412a603e479ce3c8ede6ec526
+    m_Address: ClearThreeStar73
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8648f3f2e16753745be4e985d5ee8175
+    m_Address: ClearThreeStar38
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c9ead36eb55ee84db7340db1535d6a2
+    m_Address: ClearThreeStar94
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 267d4b1e211f3814783b7ea053eac11a
+    m_Address: ClearThreeStar61
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f816a56f4ae46b047986488ed328249c
+    m_Address: ClearThreeStar69
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4be58d9a3a0ef424ab988bc3fa979f8a
+    m_Address: ClearThreeStar79
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5aa4ad11f565d0d459f47bb2713ed37b
+    m_Address: ClearThreeStar90
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a505500b3ff73314f87c7b69b2f6d913
+    m_Address: ClearThreeStar59
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 50a3c77ce22f2754d8250f016db70dad
+    m_Address: ClearThreeStar45
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a7cad7fb6e6b5142b77f40617853f72
+    m_Address: ClearThreeStar2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9869814e7b64ce40a6e6f26fbc27ccb
+    m_Address: ClearThreeStar102
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 928874eb998d0df4abc06c1461c710e5
+    m_Address: ClearThreeStar21
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca6a6ef593b442447b885b61bc07e0eb
+    m_Address: ClearThreeStar68
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66f77d683464d714598fa09eaafdef90
+    m_Address: ClearThreeStar98
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 94c2558a061246643bd6db53874ee868
+    m_Address: ClearThreeStar114
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bc1c7e1b027655746bd770249a3a6a71
+    m_Address: ClearThreeStar120
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c8808a9b8312c494cbfe0bb6a9e7e782
+    m_Address: ClearThreeStar31
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d56e8da95790ff44e86dd5f51a21754e
+    m_Address: ClearThreeStar117
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7c4bacacc296f744a8422c223ef5a61
+    m_Address: ClearThreeStar33
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b491a9b920d01d242946dff7b27a8978
+    m_Address: ClearThreeStar43
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 99a40521f4a47334aab12ca97ae93722
+    m_Address: ClearThreeStar57
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df279b3d296f9064aa175df0ea5a0a92
+    m_Address: ClearThreeStar9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: be7a5e9b878dcd64d9349cb7fd949381
+    m_Address: ClearThreeStar85
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 797f0c0e9b1774a4e9bac946066a6e3d
+    m_Address: ClearThreeStar20
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 930b9d6e5951aa14198cb99532eaac5a
+    m_Address: ClearThreeStar11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f983b99ca0b2fc944975cde6d83ab27b
+    m_Address: ClearThreeStar74
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 07581486c0407394fa961851b2890f0b
+    m_Address: ClearThreeStar106
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b0a708e88cefd254891412c60caca4b5
+    m_Address: ClearThreeStar23
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a886627d757782429d01e1af62e3f1c
+    m_Address: ClearThreeStar100
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 159dd24e2d3210c429de5e09cbfb333e
+    m_Address: ClearThreeStar93
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03c156a8a76e70b44abcb1320a1a0ca2
+    m_Address: ClearThreeStar17
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 28aaa968c7c4d2f45b9977c202508f24
+    m_Address: ClearThreeStar54
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 530239937cf35124cb51bfe8791c43d9
+    m_Address: ClearOneStar41
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b06b9798f47db654f9c119f5568c3881
+    m_Address: ClearOneStar12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5833695d1c2577e4a8a1aeda894e43e3
+    m_Address: ClearOneStar53
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f2eb5c38ea556e4db9c904390255071
+    m_Address: ClearOneStar15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f944fcf953f51e846bc93de45802b8fa
+    m_Address: ClearOneStar3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1c663a4e62badbc44bd2a7bf6cf1ad49
+    m_Address: ClearOneStar22
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4ce489d0bb24ad54a87dba9e1c978109
+    m_Address: ClearOneStar17
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b17b1626959af46478a62347bb5078d7
+    m_Address: ClearOneStar42
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: de2d1adf572a7f34bbd774e0b66955d1
+    m_Address: ClearOneStar11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68824f170c9dfae4383bda71e100b30a
+    m_Address: ClearOneStar50
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 60091d514b32bfd4d8997eed5ff04b2f
+    m_Address: ClearOneStar38
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 376bbc3768041574d9626bee49b5bd21
+    m_Address: ClearOneStar34
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bf28d79ac8bc4c44dbe25ace4a9e786b
+    m_Address: ClearOneStar48
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 270d7a74ddfd89e4d8ea8c2bb21d2915
+    m_Address: ClearOneStar18
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68441ec058bece54ba636e895db3c8de
+    m_Address: ClearOneStar57
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c120a6b38d161d440ab5c9591e184370
+    m_Address: ClearOneStar59
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 08a65f7af6e15804687284beedbbeb3d
+    m_Address: ClearOneStar56
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c080bc96d7f6ef46958e220817390d6
+    m_Address: ClearOneStar37
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ef77e251413b934dbe8dcf1fe7506a0
+    m_Address: ClearOneStar29
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d10a4c3c54bb374f9ce95eec4c5b91b
+    m_Address: ClearOneStar33
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3dcac9b0eba52af429bb47901f9ebe6d
+    m_Address: ClearOneStar49
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13704fe2769553e40900f2a4c3f5fc9b
+    m_Address: ClearOneStar45
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 007f9a76e03675146988da38a93edfcd
+    m_Address: ClearOneStar2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b362ddbf42c27d44992b01131e14c21b
+    m_Address: ClearOneStar23
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18f5b9fa8cf49f341a29d348cf6ad1af
+    m_Address: ClearOneStar20
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c5a8037891839048b41f22ecb459062
+    m_Address: ClearOneStar7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9ddd55632501ba84b939b2ecef128ded
+    m_Address: ClearOneStar39
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbf1a7e365807b041ac7d8a4022a9fc7
+    m_Address: ClearOneStar28
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae63dc4221c9f34479903db917038373
+    m_Address: ClearOneStar10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8e3734171e07e242a471ffc1ed7a0fd
+    m_Address: ClearOneStar52
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a4e2ddef7ec2b8641bc888d58663167b
+    m_Address: ClearOneStar19
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9449090b664678b479a898e85ad44c4d
+    m_Address: ClearOneStar58
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ddc6e86e8eaa31043999d603379db602
+    m_Address: ClearOneStar6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a13fae25908c6649b146ac5f80be34c
+    m_Address: ClearOneStar31
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9d51f9a0033761418b5175c44ae8492
+    m_Address: ClearOneStar32
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec55656313da9794e848657d2f94c37e
+    m_Address: ClearOneStar27
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e452da952df54a44ab053cdca95aa332
+    m_Address: ClearOneStar35
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1b26ef4b0a0be5d42b810e9bcc007435
+    m_Address: ClearOneStar26
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 640b674bc1eec3043b2ccd5b660b24b9
+    m_Address: ClearOneStar44
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9008ddfa073b25b4e979f46f395ba494
+    m_Address: ClearOneStar24
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24e552e144f9cde49a91467d5d5d8dc3
+    m_Address: ClearOneStar47
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d78b89969601cd442805644fb5b9b303
+    m_Address: ClearOneStar55
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2cdcecbd852aa844a9c90a54e32952a
+    m_Address: ClearOneStar4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d64df3edecd574947950aabe28335991
+    m_Address: ClearOneStar51
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5b9f5eb9f23a1a42b5a0d5943bd6f92
+    m_Address: ClearOneStar8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f3bfd2912dcf2d41856abc576e22bd8
+    m_Address: ClearOneStar21
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 010fd0f5813d62a4196551d3c0f0f2d3
+    m_Address: ClearOneStar14
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa201750b8aeeb84cac08504df1670ec
+    m_Address: ClearOneStar5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 76371acc7739e8d4387fdfb4b6baa652
+    m_Address: ClearOneStar43
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eaeea3b78c29d8e4e93397bff8015a7b
+    m_Address: ClearOneStar30
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b7a8f540843b31742a7934cff01d0e50
+    m_Address: ClearOneStar40
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c99f3f517ef167145a78e4f51c8fe544
+    m_Address: ClearOneStar1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b661f77328e25f6498770bb084b7770d
+    m_Address: ClearOneStar36
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 94843dcb793c4244ca80f84bf929209b
+    m_Address: ClearOneStar46
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4d4bec34801f0b41bea32624e47e361
+    m_Address: ClearOneStar60
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68f821876bb3d3f4c909746f68805eb5
+    m_Address: ClearOneStar9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b532b4ee366d9a44485d538118e5a5ca
+    m_Address: ClearOneStar16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: da61c53fb3adaea47b0cc20dbb6f1394
+    m_Address: ClearOneStar13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 00eb66eff3d2b4c47a33e6fa3984d379
+    m_Address: ClearOneStar25
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 512db301560964b459be357dde698c30
+    m_Address: ClearOneStar54
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5482cb792298b9e4298ba932452f9ffd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 06510f105ac93824dac1c2e4e66330e4, type: 2}
+    - {fileID: 11400000, guid: 5852f6676562349458820da47154077a, type: 2}

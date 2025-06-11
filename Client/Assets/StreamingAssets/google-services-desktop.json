@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439076664370",
+    "project_id": "planetplant-prod",
+    "storage_bucket": "planetplant-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439076664370:android:3ffd4e043d2ecbc9e3782b",
+        "android_client_info": {
+          "package_name": "com.mr.rathole501.aos.planetplant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439076664370-n04i5j8648rijsj0fejf8qca2kem9koq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5LiC_SZON5vFwrW9kBn2M-eilGI7vX7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439076664370-n04i5j8648rijsj0fejf8qca2kem9koq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9361347743665905~3552735537"
+    }
+  ],
+  "configuration_version": "1"
+}
