@@ -7,6 +7,8 @@ using UnityEngine.UI;
 public class Cannon : MonoBehaviour {
     public List<Plant> PlantPool;
 
+    public ICannonInput InputHandler { get; set; }
+
     private int m_index;
     public int RemainingPlants => PlantPool.Count - m_index;
 
@@ -23,6 +25,10 @@ public class Cannon : MonoBehaviour {
 
     private void Awake()
     {
+        if (InputHandler == null)
+        {
+            InputHandler = new UnityCannonInput();
+        }
 
         EffectSystem.Instance.Reserve(FixedResourceNames.Hit_Meteor);
         EffectSystem.Instance.Reserve(FixedResourceNames.Attack_Cannon);
@@ -69,7 +75,8 @@ public class Cannon : MonoBehaviour {
     public void OnUpdate(bool clear)
     {
 #if UNITY_EDITOR
-        if (Input.GetKeyDown(KeyCode.Space)) {
+        if (InputHandler != null && InputHandler.FirePressed())
+        {
             Fire();
         }
 #endif
